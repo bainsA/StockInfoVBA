@@ -8,5 +8,5 @@ volume of stock ,
 open price and
 close price 
 
-Condiitonal formatting was appiled to highlight positive change in green and negative change in red. 
+Conditonal formatting was appiled to highlight positive change in green and negative change in red. 
 The VBA script ran for all three calender years of 2018, 2019 and 2020. 
